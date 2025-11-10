@@ -1,0 +1,32 @@
+# COMMIT TITLE
+Data Analysis Update: From Blank Page to Pivot Table
+
+# SHORT DESCRIPTION FOR ATTACHMENT
+Cleaned and structured dataset, ready for analysis. Duplicates removed and date formats standardized. Includes key columns for sorting and time analysis.
+
+==================================================
+
+# FULL DOCUMENTATION (README / EXTENDED COMMENT)
+
+Hello everyone! I'm sharing the latest updates on the Bodas.net data analysis.
+
+The journey has been the best lesson. When I started with this dataset, I immediately ran into the BLANK PAGE SYNDROME: Where should I begin? This led me to redo and reorganize the work several times. The key has been working SMARTER, not harder.
+
+The main challenge wasn't the formula, but the visualization and the approach. I wasn't satisfied with how the data was being presented, which prevented me from moving forward.
+
+### Key Solutions Implemented
+
+* Invisible Duplicates Solved: I eliminated duplicate leads by ignoring the time component and searching for duplicates based on Date and Customer Name.
+* Date Format Corrected: I resolved conflicts between the DD/MM/YYYY format and the English software configuration, standardizing the month display (e.g., Nov-24).
+* Visual Order Achieved: I fixed the alphabetical ordering of months in the Pivot Table by using the Month Sort Key column to enforce chronological sorting.
+
+### Major Takeaways
+
+1.  DEFINE THE SCOPE: I learned the importance of clearly defining the analysis question and the exact time frame (Nov 07, 2024 to Nov 07, 2025) before starting any processing.
+2.  WORK WITH PIVOT TABLES: I switched from time-consuming custom formulas to using Pivot Tables. It's about working smart, not hard.
+3.  ORGANIZE THE FLOW: Following the steps from the Data Analytics course (Ask, Prepare, Process, Analyze, Share) makes the work much easier to execute and explain.
+4.  INTEGRATE AI SMARTLY: AI is a GAME CHANGER. By repeatedly asking the tool to fix my errors and clarify doubts, I am learning the necessary steps much faster.
+
+The next phase will focus on in-depth analysis: calculating the conversion rate by month, segmenting requests by lead time, and determining optimal promotions.
+
+Updates to follow!
