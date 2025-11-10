@@ -10,4 +10,4 @@ This project is a hands-on Data Analysis exercise using real-world event booking
 🚀 **Let's Connect!**
 I believe we learn best by doing and sharing. I will upload big changes often, so you can see how the analysis evolves. I'm always open to kind feedback and learning from my mistakes!
 
-I am actively looking for Data Analyst jobs and opportunities. Let's connect—I'm ready to bring my dedication to your team!
+I am actively looking for Data Analyst jobs and opportunities. Let's connect. I'm ready to bring my dedication to your team!
